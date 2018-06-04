@@ -1,5 +1,4 @@
 puts "How To Do The Macarena:"
-puts "Follow the steps bellow."
 
 # Fix The Dance Instructions Below
 # Every line should have one instruction using puts.
