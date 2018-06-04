@@ -2,8 +2,9 @@ def about_me
 puts "My name is Gabriella."
 puts "I am 15 years old."
 puts "I have blue eyes."
-puts "I am 15 years old."
+puts "I love dogs."
 end
 
-def 
+def my_life
+  puts "I am the oldest in my family"
 about_me
